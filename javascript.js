@@ -23,3 +23,7 @@ $("#hour14 .description").val(localStorage.getItem("hour14"));
 $("#hour15 .description").val(localStorage.getItem("hour15"));
 $("#hour16 .description").val(localStorage.getItem("hour16"));
 $("#hour17 .description").val(localStorage.getItem("hour17"));
+
+function hourTracker() {
+    //get current number of hours.
+    var currentHour = moment().hour();

@@ -6,8 +6,8 @@ $(document).ready(function () {
     $(".saveBtn").on("click", function () {
         //get nearby values.
         console.log(this);
-        var text = $(this).siblings(".description").val();
-        var time = $(this).parent().attr("id");
+        let text = $(this).siblings(".description").val();
+        let time = $(this).parent().attr("id");
 
         //set items in local storage.
         localStorage.setItem(time, text);
@@ -26,8 +26,28 @@ $("#hour17 .description").val(localStorage.getItem("hour17"));
 
 function hourTracker() {
     //get current number of hours.
-    var currentHour = moment().hour();
+    let currentHour = moment().hour();
     // loop over time blocks
     $(".time-block").each(function () {
-    var blockHour = parseInt($(this).attr("id").split("hour")[1]);
+    let blockHour = parseInt($(this).attr("id").split("hour")[1]);
     console.log( blockHour, currentHour)
+    //check to see if we move past the time on the planner
+    if (blockHour < currentHour) {
+        $(this).addClass("past");
+        $(this).removeClass("future");
+        $(this).removeClass("present");
+    }
+    else if (blockHour === currentHour) {
+        $(this).removeClass("past");
+        $(this).addClass("present");
+        $(this).removeClass("future");
+    }
+    else {
+        $(this).removeClass("present");
+        $(this).removeClass("past");
+        $(this).addClass("future");
+    } 
+    })
+}
+    hourTracker();
+})

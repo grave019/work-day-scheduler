@@ -31,9 +31,9 @@ Expected image of the application
 
 Outcomes from different parts of the day:
 
-![planner1](/work-day-scheduler/assets/images/planner1.png)
+![planner1](assets/images/planner1.png)
 
-![planner2](/work-day-scheduler/assets/images/planner2.png)
+![planner2](assets/images/planner2.png)
 
 ### 5.Link to the Website
 

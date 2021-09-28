@@ -22,7 +22,7 @@ The week day planner that I created is invaluable to created a schedule. When th
 
 ### 3.Reflection
 
-Writing an application is much easier using moment.js. It allows CSS and HTML to be inserted into a web page seemlessly. This project woud have taken me multiple hours to do if I had written all the code myself. This is a great time saving technique. In conclusion Moment JS hels with parsing, validating, manipulating and displaying date/time in very easy way to use.
+Writing an application is much easier using moment.js and bootstrap. It allows CSS and HTML to be inserted into a web page seemlessly. This project woud have taken me multiple hours to do if I had written all the code myself. This is a great time saving technique. In conclusion Moment JS hels with parsing, validating, manipulating and displaying date/time in very easy way to use.
 
 ### 4. Images of the site
 
@@ -33,6 +33,11 @@ Outcomes from different parts of the day:
 
 ![am1](/assets/images/am1.png)
 ![am2](assets/images/am2.png)
+
+screenshots taken mid-morning to show planner changes.
+
+![morning1](assets/images/midmorning1.png)
+![morning2](assets/images/midmornin2.png)
 
 ### 5.Link to the Website
 
@@ -46,5 +51,7 @@ https://eloquentjavascript.net
 
 I also took advantage of moment.js web application building power. you can visit the website at the following link.
 https://momentjs.com/docs/
+
+I also used bootstrap to align the page correctly. The following link can be used to help style your page in the future. https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
 
 Thank you for taking the time to look through my readme file and look at my work day planner.

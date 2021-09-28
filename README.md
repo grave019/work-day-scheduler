@@ -31,13 +31,9 @@ Expected image of the application
 
 Outcomes from different parts of the day:
 
-![am1](/assets/images/am1.png)
-![am2](assets/images/am2.png)
+![planner1](/work-day-scheduler/assets/images/planner1.png)
 
-screenshots taken mid-morning to show planner changes.
-
-![morning1](assets/images/midmorning1.png)
-![morning2](assets/images/midmornin2.png)
+![planner2](/work-day-scheduler/assets/images/planner2.png)
 
 ### 5.Link to the Website
 

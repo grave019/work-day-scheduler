@@ -2,7 +2,7 @@ $(document).ready(function () {
     //displays current day & time.
     $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
 
-    //Assign saveBtn click listener 
+    //Assign saveBtn on click listener 
     $(".saveBtn").on("click", function () {
         //get nearby values.
         console.log(this);

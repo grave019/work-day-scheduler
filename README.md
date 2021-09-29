@@ -22,7 +22,7 @@ The week day planner that I created is invaluable to created a schedule. When th
 
 ### 3.Reflection
 
-Writing an application is much easier using moment.js and bootstrap. It allows CSS and HTML to be inserted into a web page seemlessly. This project woud have taken me multiple hours to do if I had written all the code myself. This is a great time saving technique. In conclusion Moment JS hels with parsing, validating, manipulating and displaying date/time in very easy way to use.
+Writing an application is much easier using moment.js and bootstrap. It allows CSS and HTML to be inserted into a web page seemlessly. This project woud have taken me multiple hours to do if I had written all the code myself. This is a great time saving technique. In conclusion Moment JS helps with parsing, validating, manipulating and displaying date/time in very easy way to use. The "shortcuts" allow for better time management.
 
 ### 4. Images of the site
 

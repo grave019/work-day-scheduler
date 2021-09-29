@@ -1,6 +1,6 @@
 $(document).ready(function () {
     //displays current day & time.
-    $("#currentDay").text(moment().format("MMMM Do YYYY, h:mm:ss a"));
+    $("#currentDay").text(moment().format("LLLL"));
 
     //Assign saveBtn on click listener 
     $(".saveBtn").on("click", function () {
@@ -27,7 +27,7 @@ $("#hour17 .description").val(localStorage.getItem("hour17"));
 $("#hour18 .description").val(localStorage.getItem("hour18"));
 
 function hourTracker() {
-    //get current number of hours.
+    //get current hour number
     let currentHour = moment().hour();
     // loop over time blocks
     $(".time-block").each(function () {

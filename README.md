@@ -1,3 +1,5 @@
+ ![MIT License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+ 
 # Work Day Planner
 
 ## 1. Introduction
@@ -11,6 +13,8 @@
 ## 5. Link To The Website
 
 ## 6. Credits
+
+## 7. License
 
 ### 1.Introduction
 
@@ -51,3 +55,13 @@ https://momentjs.com/docs/
 I also used bootstrap to align the page correctly. The following link can be used to help style your page in the future. https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
 
 Thank you for taking the time to look through my readme file and look at my work day planner.
+
+### 7. License
+
+Copyright 2021 Brent Graves
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+  
+  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+  
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
